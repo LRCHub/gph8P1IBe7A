@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LOVEグラフィティ",
+  "base_artist": "SePTENTRION（CV.寺島惇太、斉藤壮馬、畠中祐、八代拓、五十嵐雅、永塚拓馬、内田雄馬）",
+  "createdAt": "2025-12-04T18:34:14.792021Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVEグラフィティ",
+      "artist": "SePTENTRION(CV.寺島惇太、斉藤壮馬、畠中祐、八代拓、五十嵐雅、永塚拓馬、内田雄馬)",
+      "has_synced": false,
+      "path": "select/pl_01_LOVEグラフィティ_SePTENTRION(CV.寺島惇太、斉藤壮馬、畠中祐、八代拓、五十嵐雅、永塚拓馬、内田雄馬).txt"
+    }
+  ]
+}
